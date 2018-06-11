@@ -1,0 +1,2 @@
+# myQTPbasescript
+VBS SCRIPT
